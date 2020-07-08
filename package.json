@@ -1,0 +1,10 @@
+{
+  "name": "weather-server",
+  "version": "1.0.0",
+  "description": "weather-server test",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
